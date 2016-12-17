@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">RemoteMeasure</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">MQTT服务器配置</string>
+    <string name="action_about">关于</string>
+    <string name="button_close">关闭</string>
+    <string name="about_title">Remote Measure  v1.0</string>
+    <string name="help_dialog_text">
+        <i>作者: 飞鸿踏雪</i>
+        \n
+        \n
+        <i>邮箱：wdluo@embed-net.com</i>
+        \n
+        \n
+        <i>QQ：188298598</i>
+        \n
+        \n
+        <b>基于MQTT协议实现远程测量和控制！
+            \n 更多信息请访问www.embed-net.com！</b>
+        \n
+        \n
+        <b>有任何建议或者反馈可以随时联系作者</b>
+    </string>
+</resources>
